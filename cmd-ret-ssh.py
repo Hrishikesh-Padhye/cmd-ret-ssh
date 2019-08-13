@@ -17,7 +17,7 @@ class Client:
 			s = pxssh.pxssh()
 			s.login(self.host, self.user, self.password)
 			return s
-		except Exception, e:
+		except Exception as e:
 			print e
 			print '[-] Error Connecting'
 	def send_command(self, cmd):
