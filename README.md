@@ -9,7 +9,7 @@ The output of the execution is:<br/>
  **Hrishikesh Padhye**
 
 * Twitter: [@Hrishi_says_so](https://twitter.com/Hrishi_says_so)
-* Github: [iamhrishikesh](https://github.com/Hrishikesh-Padhye)
+* Github: [iamhrishikesh](https://github.com/iamhrishikeshpadhye)
 
 #### Contributing
 
